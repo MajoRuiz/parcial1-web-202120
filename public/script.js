@@ -7,8 +7,12 @@ const message = document.getElementById('message');
 
 enterButton.addEventListener('click', (event) => {
   //Implementar lógica del button submit
+  const input = document.getElementById('inputText').value;
+  
+  
+
   alert('Implementar lógica del button submit');
-  getresults(123);
+  getresults(input);
   event.preventDefault();
 });
 

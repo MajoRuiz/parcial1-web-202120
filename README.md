@@ -19,3 +19,5 @@
 ## Documentación endpoint
 
 Agregue aquí al documentación del endpoint elaborado.
+
+Se hace un arreglo,donde Arr es el arreglo y K es el numero que se le pasa por parámetro
